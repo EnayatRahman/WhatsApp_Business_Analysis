@@ -1,4 +1,4 @@
-# WhatsApp_Business_Analysis
+# WhatsApp API Business Analysis
 
 ## Problem Statements
 1. Identify all customers who have successfully opted into WhatsApp notifications but have not yet interacted with any WhatsApp messages.
